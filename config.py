@@ -1,0 +1,8 @@
+# StravaIO
+CLIENT_ID = "113418"
+CLIENT_SECRET = "e609063391d1f732950f98fb14d261ef512d6296"
+
+# Notion
+TOKEN_V2 = "secret_ftMx11YtTdEeUBgz4pFdLIeg7rn3eWJJt9dhcztTx8y"
+
+DATABASE_ID = "Strava-2c04847464014a5dac0bcca8cd5eac78"
